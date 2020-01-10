@@ -1,1 +1,0 @@
-# nsxsoft.github.io
