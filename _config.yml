@@ -35,6 +35,7 @@ strict_front_matter : false
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-admin
 exclude:
   - Gemfile
   - Gemfile.lock
