@@ -24,7 +24,6 @@ twitter_username: nsxsoft
 github_username:  nsxsoft
 
 # Build settings
-markdown: kramdown
 markdown            : kramdown
 highlighter         : rouge
 lsi                 : false
@@ -39,3 +38,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  posts:
+    output: true
+    sidebar_label: News
