@@ -25,13 +25,12 @@ github_username:  nsxsoft
 
 # Build settings
 markdown            : kramdown
-page_excerpts: true
-highlighter         : rouge
-lsi                 : false
-excerpt_separator   : "\n\n"
-incremental         : false
-markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-strict_front_matter : false
+#highlighter         : rouge
+#lsi                 : false
+#excerpt_separator   : "\n\n"
+#incremental         : false
+#markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+#strict_front_matter : false
 
 theme: minima
 gems:
