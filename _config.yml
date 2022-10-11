@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: NSXSOFT
 email: nsxsoft@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -24,6 +25,14 @@ github_username:  nsxsoft
 
 # Build settings
 markdown: kramdown
+markdown            : kramdown
+highlighter         : rouge
+lsi                 : false
+excerpt_separator   : "\n\n"
+incremental         : false
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter : false
+
 theme: minima
 gems:
   - jekyll-feed
