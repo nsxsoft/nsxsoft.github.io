@@ -19,7 +19,7 @@ email: nsxsoft@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   IT Systems Engineer, Systems Developer, Embedded Systems Engineer and Open Source Geek - Unix, Redhat, Ubuntu, F5, Networking and Security
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.nsxsoft.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nsxsoft
 github_username:  nsxsoft
 
