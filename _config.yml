@@ -24,14 +24,7 @@ twitter_username: nsxsoft
 github_username:  nsxsoft
 
 # Build settings
-markdown            : kramdown
-#highlighter         : rouge
-#lsi                 : false
-#excerpt_separator   : "\n\n"
-#incremental         : false
-#markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
-#strict_front_matter : false
-
+markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
