@@ -41,10 +41,10 @@ kramdown:
 #theme: minima
 
 plugins:
+  - jekyll-admin
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-admin
 
 # Exclude these files from production site
 exclude:
@@ -61,15 +61,6 @@ collections:
   posts:
     output: true
     sidebar_label: News
-
-jekyll_admin:
-  hidden_links:
-    - posts
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-  homepage: "pages"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
