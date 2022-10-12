@@ -21,6 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://www.nsxsoft.com" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: nsxsoft
 github_username:  nsxsoft
 
@@ -49,7 +50,7 @@ plugins:
 exclude:
   - CHANGELOG.md
   - CNAME
-  - Gemfile
+#  - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md

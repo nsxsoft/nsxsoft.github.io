@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "nsxsoft-theme"
   spec.version       = "5.0.0"
   spec.authors       = ["Christian Bacon"]
-  spec.email         = ["nsxosft@gmail.com"]
+  spec.email         = ["nsxsoft@gmail.com"]
 
   spec.summary       = "Beautiful Jekyll is a ready-to-use Jekyll theme to help you create an awesome website quickly. Perfect for personal blogs or simple project websites, with a focus on responsive and clean design."
   spec.homepage      = "https://www.nsxsoft.com"
