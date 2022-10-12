@@ -39,11 +39,9 @@ kramdown:
 
 theme: minima
 
-gems:
-  - jekyll-feed
-
 plugins:
   - jekyll-paginate
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-admin
 
