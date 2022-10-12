@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "beautiful-jekyll-theme"
+  spec.name          = "nsxsoft-theme"
   spec.version       = "5.0.0"
   spec.authors       = ["Christian Bacon"]
   spec.email         = ["nsxosft@gmail.com"]
