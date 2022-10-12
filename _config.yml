@@ -58,6 +58,11 @@ exclude:
   - screenshot.png
   - docs/
 
+collections:
+  posts:
+    output: true
+    sidebar_label: News
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
