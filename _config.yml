@@ -98,3 +98,21 @@ kramdown:
   footnote_nr       : 1
   show_warnings     : false
 
+#
+# Default YAML values (more information on Jekyll's site)
+#
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
