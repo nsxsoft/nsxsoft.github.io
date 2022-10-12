@@ -50,7 +50,7 @@ plugins:
 exclude:
   - CHANGELOG.md
   - CNAME
-#  - Gemfile
+  - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
