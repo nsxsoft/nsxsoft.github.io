@@ -5,9 +5,7 @@ jobs:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          node-version: '16.x'
+      - uses: actions/checkout@v3.5.0
       - name: Build the site in the jekyll/builder container
         run: |
           export JEKYLL_VERSION=3.8
