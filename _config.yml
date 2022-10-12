@@ -40,7 +40,7 @@ kramdown:
 
 #theme: minima
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
