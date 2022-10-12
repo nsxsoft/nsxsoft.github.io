@@ -38,9 +38,9 @@ highlighter: rouge
 kramdown:
   input: GFM
 
-theme: minima
+#theme: minima
 
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
