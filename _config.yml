@@ -24,13 +24,6 @@ url: "https://www.nsxsoft.com" # the base hostname & protocol for your site, e.g
 twitter_username: nsxsoft
 github_username:  nsxsoft
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-
 #####################################################
 # Build settings
 # Output options (more information on Jekyll's site)
