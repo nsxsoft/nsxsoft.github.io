@@ -36,6 +36,7 @@ data_dir            : _data
 includes_dir        : _includes
 sass:
   sass_dir: _sass
+
 collections:
   posts:
     output: true
@@ -54,7 +55,7 @@ strict_front_matter : false
 show_drafts         : null
 #limit_posts        : 0
 future              : true
-unpublished         : false
+#unpublished         : false
 
 # Plugins
 whitelist           : []
@@ -81,7 +82,7 @@ timezone            : "America/Toronto"
 
 quiet               : false
 verbose             : true
-defaults            : []
+# defaults            : []
 
 liquid:
   error_mode        : warn
@@ -100,6 +101,7 @@ kramdown:
   show_warnings     : false
 
 regenerate: true
+
 #
 # Default YAML values (more information on Jekyll's site)
 #
