@@ -57,7 +57,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : ["github-pages","jekyll-feed"]
+plugins             : ["github-pages","jekyll-feed","faraday-retry"]
 
 # Conversion
 markdown            : kramdown
