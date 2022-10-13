@@ -38,7 +38,8 @@ sass:
   sass_dir: _sass
 collections:
   posts:
-    output          : true
+    output: true
+    sidebar_label: News
 
 # Handling Reading
 safe                : false
@@ -57,7 +58,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : ["github-pages","jekyll-feed","faraday-retry","jekyll-paginate","jekyll-sitemap","kramdown-parser-gfm"]
+plugins             : ["github-pages","jekyll-feed","faraday-retry","jekyll-paginate","jekyll-sitemap","kramdown-parser-gfm","jekyll-admin"]
 
 # Conversion
 markdown            : kramdown
