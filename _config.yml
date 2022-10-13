@@ -59,7 +59,7 @@ future              : true
 
 # Plugins
 whitelist           : []
-plugins             : ["kramdown","github-pages","jekyll-feed","faraday-retry","jekyll-paginate","jekyll-sitemap","kramdown-parser-gfm","jekyll-admin","jekyll-seo-tag"]
+plugins             : ["kramdown","github-pages","jekyll-feed","faraday-retry","jekyll-paginate","jekyll-sitemap","kramdown-parser-gfm","jekyll-admin"]
 
 # Conversion
 markdown            : kramdown
