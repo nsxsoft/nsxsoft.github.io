@@ -59,7 +59,7 @@ future              : true
 
 # Plugins
 whitelist           : []
-plugins             : ["kramdown","github-pages","jekyll-feed","faraday-retry","jekyll-paginate","jekyll-sitemap","kramdown-parser-gfm","jekyll-admin"]
+plugins             : ["kramdown","jekyll-feed","jekyll-paginate","jekyll-sitemap","kramdown-parser-gfm","jekyll-admin"]
 
 # Conversion
 markdown            : kramdown
@@ -71,7 +71,7 @@ incremental         : flase
 # Serving
 #detach              : false
 #port                : 4000
-#host                : 127.0.0.1
+host                : docker.local
 baseurl             : "" # does not include hostname
 #show_dir_listing    : false
 
