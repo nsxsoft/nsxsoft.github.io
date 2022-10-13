@@ -57,7 +57,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : ["github-pages","jekyll-feed"]
 
 # Conversion
 markdown            : kramdown
