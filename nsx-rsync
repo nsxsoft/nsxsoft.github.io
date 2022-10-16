@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+rsync -avr -e ssh ./_site/ ubuntu@ec2-35-183-91-28.ca-central-1.compute.amazonaws.com:/var/www/digitalstudiocb.com/html
