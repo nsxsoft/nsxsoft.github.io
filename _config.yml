@@ -76,8 +76,6 @@ baseurl             : "" # does not include hostname
 #show_dir_listing    : false
 
 # Outputting
-# permalink           : date
-# paginate_path       : /page:num
 timezone            : "America/Toronto"
 
 quiet               : false
