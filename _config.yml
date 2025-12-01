@@ -21,7 +21,7 @@ title                    : "NSXSOFT"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Christian Bacon"
-description              : "Systems Engineer, DevOps Practitioner, Cloud Enthusiast, Tech Blogger"
+description              : "Systems Administrator and Developer in UNIX/Linux/BSD"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,8 @@ analytics:
 author:
   name             : "Christian Bacon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Systems Engineer, DevOps Practitioner, Cloud Enthusiast, Tech Blogger"
+  bio              : "Systems Administrator and Developer in UNIX/Linux/BSD"
+  # bio              : "Systems Engineer, DevOps Practitioner, Cloud Enthusiast, Tech Blogger"
   location         : "Quebec, Canada"
   email            :
   links:
