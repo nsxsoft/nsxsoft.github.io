@@ -42,8 +42,8 @@ social:
     - https://twitter.com/nsxsoft # change to your Twitter homepage
     - https://github.com/nsxsoft # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/nsxsoft
+    - https://www.linkedin.com/in/nsxsoft
 
 # Site Verification Settings
 webmaster_verifications:
