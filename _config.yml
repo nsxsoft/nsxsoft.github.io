@@ -16,7 +16,7 @@ timezone:
 
 title: NSXSOFT # the main title
 
-tagline: IT Systems Engineer & Developer and Open Source Geek # it will display as the subtitle
+tagline: IT Systems Engineer and Developer and Open Source Geek # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
